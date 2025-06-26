@@ -1,0 +1,9 @@
+PORTAL DO ALUNO
+
+No Portal do Aluno, você tem acesso a várias funcionalidades que permitem a visualização do andamento de sua vida acadêmica, como acesso ao histórico escolar, emissão de documentos, e processos como matrícula, avaliação do docente etc.
+Link de acesso: https://sistemas2.utfpr.edu.br/login?returnUrl=%2Fdpls%2Fsistema%2Faluno03%2Fmpmenu.inicio
+
+MOODLE
+
+É o ambiente virtual de aprendizagem usado na UTFPR.
+Link de acesso: https://moodle.utfpr.edu.br/login/index.php?loginredirect=1

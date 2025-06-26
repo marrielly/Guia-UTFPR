@@ -1,0 +1,9 @@
+google-cloud-aiplatform
+langchain-community
+langchain-google-vertexai
+langchain
+gradio
+python-telegram-bot
+pandas
+
+

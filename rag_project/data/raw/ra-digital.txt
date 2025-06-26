@@ -1,0 +1,10 @@
+RA DIGITAL (UTFPR MOBILE)
+
+O aplicativo UTFPR Mobile facilita o acesso a informações acadêmicas por dispositivos móveis. A plataforma está disponível para instalação nos sistemas operacionais Android e IOS.
+
+Link de acesso Android: https://play.google.com/store/apps/details?id=coted.UTFPRMobileAlunos&hl=pt_BR&gl=US
+Link de acesso IOS: https://apps.apple.com/br/app/utfpr-mobile-alunos/id1365667569
+
+Entre os dados disponibilizados, estão o RA digital, o boletim, os horários das aulas, o histórico acadêmico, a matriz curricular, o cardápio do restaurante universitário e o relatório de refeições consumidas, as notícias e os contatos dos câmpus.
+
+As instruções sobre normas para inserção da foto no RA digital estão disponíveis neste link: https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=3323641&id_orgao_publicacao=0

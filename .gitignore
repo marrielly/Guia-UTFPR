@@ -1,0 +1,5 @@
+.git
+rag_env/*
+models/*
+models/faiss_index/*
+__pycache__/*

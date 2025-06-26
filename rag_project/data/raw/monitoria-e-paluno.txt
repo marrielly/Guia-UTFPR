@@ -1,0 +1,15 @@
+MONITORIA
+
+O Programa de Monitoria da UTFPR tem como finalidade a melhoria do processo ensino-aprendizagem, constituindo-se em atividade optativa dentro dos cursos de graduação, podendo, quando da sua conclusão, ser pontuado como Atividade Complementar.
+O campus Campo Mourão oferta, atualmente, 14 bolsas para monitores. O que significa que 14 disciplinas possuem um estudante monitor para auxiliar seus colegas durante os atendimentos.
+
+Para saber mais sobre quais são as disciplinas e seus horários, acesse o Portal do Aluno.
+E para ser um monitor, fique atento às publicações dos editais do campus.
+
+Link de acesso aos editais: https://www.utfpr.edu.br/editais?query=%5B%7B%22i%22%3A%22portal_type%22%2C%22o%22%3A%22paqo.selection.any%22%2C%22v%22%3A%5B%22utf.edital%22%2C%22utf.concurso%22%5D%7D%2C%7B%22i%22%3A%22campi%22%2C%22o%22%3A%22paqo.list.contains%22%2C%22v%22%3A%5B%22campo-mourao%22%5D%7D%2C%7B%22i%22%3A%22area_edital%22%2C%22o%22%3A%22paqo.list.contains%22%2C%22v%22%3A%5B%22graduacao%22%5D%7D%5D&sort_on=created&sort_order=descending
+
+
+P-ALUNO – PERMANÊNCIA / ATENDIMENTO AO ALUNO
+
+Todo professor da UTFPR disponibiliza um horário semanal para atender seus alunos fora do horário de aula. Nesse atendimento, o professor esclarece dúvidas sobre a disciplina, auxilia na resolução de exercícios e em outras demandas.
+Para saber o horário de P.A. de cada professor(a), acesse também o Portal do Aluno.
