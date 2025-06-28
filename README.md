@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <div id="top" >
 
 <div align="center" >
+=======
+<div id="top"\>
+
+<div align="center"\>
+>>>>>>> d6d5f4ac29a6588fd074620ec44b444f45105183
 
 # GUIA-UTFPR
 
