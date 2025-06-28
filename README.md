@@ -1,5 +1,3 @@
-Com certeza\! Aqui está a tradução para o português do texto fornecido:
-
 <div id="top"\>
 
 <div align="center"\>
