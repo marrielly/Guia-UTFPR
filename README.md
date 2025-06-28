@@ -1,8 +1,6 @@
-Com certeza\! Aqui está a tradução para o português do texto fornecido:
+<div id="top" >
 
-<div id="top"\>
-
-<div align="center"\>
+<div align="center" >
 
 # GUIA-UTFPR
 
@@ -58,17 +56,17 @@ Este projeto visa aprimorar a acessibilidade às informações do campus com cha
 
 ## 📌 Recursos
 
-|     | Componente              | Detalhes                                                                                                                                                                                                                                                                             |
-| :-- | :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚙️  | **Arquitetura**         | \<ul\>\<li\>Design modular que separa o processamento de dados, a inferência do modelo e os componentes da UI\</li\>\<li\>Usa notebooks Jupyter para experimentação e prototipagem\</li\>\<li\>Potencial arquitetura em camadas integrando serviços de IA na nuvem\</li\>\</ul\>     |
-| 🔩  | **Qualidade do Código** | \<ul\>\<li\>Segue as melhores práticas de Python com clara separação de funções\</li\>\<li\>Usa `requirements.txt` para gerenciamento de dependências\</li\>\<li\>Comentários de código e docstrings presentes nos módulos principais\</li\>\</ul\>                                  |
-| 📄  | **Documentação**        | \<ul\>\<li\>README básico com visão geral do projeto e instruções de configuração\</li\>\<li\>Inclui lista de dependências e exemplos de uso\</li\>\<li\>Nenhuma documentação extensa de API ou de desenvolvedor observada\</li\>\</ul\>                                             |
-| 🔌  | **Integrações**         | \<ul\>\<li\>Integra-se com o Google Cloud Vertex AI via `langchain-google-vertexai`\</li\>\<li\>Usa o Gradio para implantação da UI\</li\>\<li\>Inclui integração com bot do Telegram com `python-telegram-bot`\</li\>\<li\>Utiliza o pandas para manipulação de dados\</li\>\</ul\> |
-| 🧩  | **Modularidade**        | \<ul\>\<li\>Scripts/notebooks separados para ingestão de dados, inferência de modelo e UI\</li\>\<li\>Utiliza componentes do LangChain para encadear fluxos de trabalho de IA\</li\>\<li\>A abordagem modular facilita a extensão e a personalização\</li\>\</ul\>                   |
-| 🧪  | **Testes**              | \<ul\>\<li\>Nenhum framework de teste explícito ou scripts de teste identificados\</li\>\<li\>Potencial dependência da experimentação em notebooks\</li\>\</ul\>                                                                                                                     |
-| ⚡️ | **Desempenho**          | \<ul\>\<li\>Usa serviços de IA na nuvem para inferência escalável\</li\>\<li\>Emprega o Gradio para uma UI leve, reduzindo a carga local\</li\>\<li\>Potencial gargalo no processamento de dados baseado em notebook\</li\>\</ul\>                                                   |
-| 🛡️  | **Segurança**           | \<ul\>\<li\>Nenhuma medida de segurança explícita documentada\</li\>\<li\>Usa chaves de API ou credenciais provavelmente armazenadas em variáveis de ambiente\</li\>\</ul\>                                                                                                          |
-| 📦  | **Dependências**        | \<ul\>\<li\>Gerenciadas via `requirements.txt`\</li\>\<li\>As principais dependências incluem: `google-cloud-aiplatform`, `langchain`, `gradio`, `python-telegram-bot`, `pandas`\</li\>\</ul\>                                                                                       |
+|     | Componente              | Detalhes                                                                                                                                                                                                                                                         |
+| :-- | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️  | **Arquitetura**         | <ul><li>Design modular que separa o processamento de dados, a inferência do modelo e os componentes da UI</li><li>Usa notebooks Jupyter para experimentação e prototipagem</li><li>Potencial arquitetura em camadas integrando serviços de IA na nuvem</li></ul> |
+| 🔩  | **Qualidade do Código** | <ul><li>Segue as melhores práticas de Python com clara separação de funções</li><li>Usa `requirements.txt` para gerenciamento de dependências</li><li>Comentários de código e docstrings presentes nos módulos principais</li></ul>                              |
+| 📄  | **Documentação**        | <ul><li>README básico com visão geral do projeto e instruções de configuração</li><li>Inclui lista de dependências e exemplos de uso</li><li>Nenhuma documentação extensa de API ou de desenvolvedor observada</li></ul>                                         |
+| 🔌  | **Integrações**         | <ul><li>Integra-se com o Google Cloud Vertex AI via `langchain-google-vertexai`</li><li>Usa o Gradio para implantação da UI</li><li>Inclui integração com bot do Telegram com `python-telegram-bot`</li><li>Utiliza o pandas para manipulação de dados</li></ul> |
+| 🧩  | **Modularidade**        | <ul><li>Scripts/notebooks separados para ingestão de dados, inferência de modelo e UI</li><li>Utiliza componentes do LangChain para encadear fluxos de trabalho de IA</li><li>A abordagem modular facilita a extensão e a personalização</li></ul>               |
+| 🧪  | **Testes**              | <ul><li>Nenhum framework de teste explícito ou scripts de teste identificados</li><li>Potencial dependência da experimentação em notebooks</li></ul>                                                                                                             |
+| ⚡️ | **Desempenho**          | <ul><li>Usa serviços de IA na nuvem para inferência escalável</li><li>Emprega o Gradio para uma UI leve, reduzindo a carga local</li><li>Potencial gargalo no processamento de dados baseado em notebook</li></ul>                                               |
+| 🛡️  | **Segurança**           | <ul><li>Nenhuma medida de segurança explícita documentada</li><li>Usa chaves de API ou credenciais provavelmente armazenadas em variáveis de ambiente</li></ul>                                                                                                  |
+| 📦  | **Dependências**        | <ul><li>Gerenciadas via `requirements.txt`</li><li>As principais dependências incluem: `google-cloud-aiplatform`, `langchain`, `gradio`, `python-telegram-bot`, `pandas`</li></ul>                                                                               |
 
 ---
 
@@ -90,48 +88,48 @@ Este projeto visa aprimorar a acessibilidade às informações do campus com cha
 
 ### 📑 Índice do Projeto
 
-\<details open\>
-\<summary\>\<b\>\<code\>GUIA-UTFPR/\</code\>\</b\>\</summary\>
-\<details\>
-\<summary\>\<b\>**root**\</b\>\</summary\>
-\<blockquote\>
-\<div class='directory-path' style='padding: 8px 0; color: \#666;'\>
-\<code\>\<b\>⦿ **root**\</b\>\</code\>
-\<table style='width: 100%; border-collapse: collapse;'\>
-\<thead\>
-\<tr style='background-color: \#f8f9fa;'\>
-\<th style='width: 30%; text-align: left; padding: 8px;'\>Nome do Arquivo\</th\>
-\<th style='text-align: left; padding: 8px;'\>Resumo\</th\>
-\</tr\>
-\</thead\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/interface.py](https://github.com/marrielly/Guia-UTFPR/blob/master/interface.py)'\>interface.py\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- Fornece uma interface web interativa para um chatbot baseado em conhecimento, permitindo que os usuários façam perguntas sobre o campus e os serviços da UTFPR-CM\<br\>- Facilita interações de usuário fluidas, exibe respostas em tempo real e inclui funcionalidade para limpar o histórico de conversas, apoiando uma experiência envolvente e amigável dentro da arquitetura geral do sistema.\</td\>
-\</tr\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/telegram_bot.py](https://github.com/marrielly/Guia-UTFPR/blob/master/telegram_bot.py)'\>telegram_bot.py\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- Implementa um chatbot do Telegram que serve como um guia interativo do campus, tratando as perguntas dos usuários consultando uma base de conhecimento e gerenciando o histórico de conversas\<br\>- Facilita o engajamento do usuário por meio de comandos de ajuda e limpeza de histórico, fornecendo respostas em tempo real às perguntas, melhorando assim a acessibilidade e o suporte às informações do campus.\</td\>
-\</tr\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/rag.ipynb](https://github.com/marrielly/Guia-UTFPR/blob/master/rag.ipynb)'\>rag.ipynb\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- O arquivo \<code\>rag.ipynb\</code\> serve como o script de orquestração principal para o pipeline de Geração Aumentada por Recuperação (RAG) dentro do projeto\<br\>- Seu objetivo principal é carregar, processar e preparar dados textuais de um diretório especificado, transformando documentos brutos em um armazenamento vetorial estruturado e otimizado para recuperação eficiente\<br\>- Essa configuração permite que o sistema utilize fontes de conhecimento externas durante as interações com o modelo de linguagem, aprimorando a precisão e a relevância das respostas geradas\<br\>- No geral, este notebook facilita a integração da ingestão de documentos, divisão de texto, geração de embeddings e armazenamento vetorial, formando a etapa fundamental para a construção de um sistema robusto de perguntas e respostas aumentado por recuperação dentro da arquitetura mais ampla.\</td\>
-\</tr\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/LICENCE](https://github.com/marrielly/Guia-UTFPR/blob/master/LICENCE)'\>LICENCE\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- Define os termos de licenciamento e as permissões de uso para todo o projeto de software, garantindo clareza legal e direitos de distribuição adequados\<br\>- Estabelece a estrutura sob a qual o software pode ser livremente usado, modificado e compartilhado, apoiando a colaboração de código aberto e salvaguardando os direitos dos autores\<br\>- Esta licença sustenta a arquitetura aberta e acessível do projeto.\</td\>
-\</tr\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/agent.py](https://github.com/marrielly/Guia-UTFPR/blob/master/agent.py)'\>agent.py\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- Implementa um sistema de Geração Aumentada por Recuperação (RAG) que utiliza busca por similaridade vetorial e modelos de linguagem grandes para fornecer respostas precisas e com reconhecimento de contexto\<br\>- Integra recuperação de documentos, memória conversacional e capacidades de streaming para facilitar interações dinâmicas e naturais, servindo principalmente como um assistente virtual inteligente para a comunidade da UTFPR-CM.\</td\>
-\</tr\>
-\<tr style='border-bottom: 1px solid \#eee;'\>
-\<td style='padding: 8px;'\>\<b\>\<a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/requirements.txt](https://github.com/marrielly/Guia-UTFPR/blob/master/requirements.txt)'\>requirements.txt\</a\>\</b\>\</td\>
-\<td style='padding: 8px;'\>- Facilita a integração dos componentes do Google Cloud Vertex AI e LangChain para permitir fluxos de trabalho escaláveis e orientados por IA\<br\>- Suporta a implantação fluida de modelos de linguagem, processamento de dados e interfaces de interação do usuário dentro da arquitetura mais ampla\<br\>- Garante que todas as dependências necessárias sejam instaladas para o desenvolvimento e execução eficientes de aplicativos alimentados por IA que utilizam aprendizado de máquina baseado em nuvem e ferramentas de conversação.\</td\>
-\</tr\>
-\</table\>
-\</blockquote\>
-\</details\>
-\</details\>
+ <details open >
+ <summary > <b > <code >GUIA-UTFPR/ </code > </b > </summary >
+ <details >
+ <summary > <b >**root** </b > </summary >
+ <blockquote >
+ <div class='directory-path' style='padding: 8px 0; color:  #666;' >
+ <code > <b >⦿ **root** </b > </code >
+ <table style='width: 100%; border-collapse: collapse;' >
+ <thead >
+ <tr style='background-color:  #f8f9fa;' >
+ <th style='width: 30%; text-align: left; padding: 8px;' >Nome do Arquivo </th >
+ <th style='text-align: left; padding: 8px;' >Resumo </th >
+ </tr >
+ </thead >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/interface.py](https://github.com/marrielly/Guia-UTFPR/blob/master/interface.py)' >interface.py </a > </b > </td >
+ <td style='padding: 8px;' >- Fornece uma interface web interativa para um chatbot baseado em conhecimento, permitindo que os usuários façam perguntas sobre o campus e os serviços da UTFPR-CM <br >- Facilita interações de usuário fluidas, exibe respostas em tempo real e inclui funcionalidade para limpar o histórico de conversas, apoiando uma experiência envolvente e amigável dentro da arquitetura geral do sistema. </td >
+ </tr >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/telegram_bot.py](https://github.com/marrielly/Guia-UTFPR/blob/master/telegram_bot.py)' >telegram_bot.py </a > </b > </td >
+ <td style='padding: 8px;' >- Implementa um chatbot do Telegram que serve como um guia interativo do campus, tratando as perguntas dos usuários consultando uma base de conhecimento e gerenciando o histórico de conversas <br >- Facilita o engajamento do usuário por meio de comandos de ajuda e limpeza de histórico, fornecendo respostas em tempo real às perguntas, melhorando assim a acessibilidade e o suporte às informações do campus. </td >
+ </tr >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/rag.ipynb](https://github.com/marrielly/Guia-UTFPR/blob/master/rag.ipynb)' >rag.ipynb </a > </b > </td >
+ <td style='padding: 8px;' >- O arquivo  <code >rag.ipynb </code > serve como o script de orquestração principal para o pipeline de Geração Aumentada por Recuperação (RAG) dentro do projeto <br >- Seu objetivo principal é carregar, processar e preparar dados textuais de um diretório especificado, transformando documentos brutos em um armazenamento vetorial estruturado e otimizado para recuperação eficiente <br >- Essa configuração permite que o sistema utilize fontes de conhecimento externas durante as interações com o modelo de linguagem, aprimorando a precisão e a relevância das respostas geradas <br >- No geral, este notebook facilita a integração da ingestão de documentos, divisão de texto, geração de embeddings e armazenamento vetorial, formando a etapa fundamental para a construção de um sistema robusto de perguntas e respostas aumentado por recuperação dentro da arquitetura mais ampla. </td >
+ </tr >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/LICENCE](https://github.com/marrielly/Guia-UTFPR/blob/master/LICENCE)' >LICENCE </a > </b > </td >
+ <td style='padding: 8px;' >- Define os termos de licenciamento e as permissões de uso para todo o projeto de software, garantindo clareza legal e direitos de distribuição adequados <br >- Estabelece a estrutura sob a qual o software pode ser livremente usado, modificado e compartilhado, apoiando a colaboração de código aberto e salvaguardando os direitos dos autores <br >- Esta licença sustenta a arquitetura aberta e acessível do projeto. </td >
+ </tr >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/agent.py](https://github.com/marrielly/Guia-UTFPR/blob/master/agent.py)' >agent.py </a > </b > </td >
+ <td style='padding: 8px;' >- Implementa um sistema de Geração Aumentada por Recuperação (RAG) que utiliza busca por similaridade vetorial e modelos de linguagem grandes para fornecer respostas precisas e com reconhecimento de contexto <br >- Integra recuperação de documentos, memória conversacional e capacidades de streaming para facilitar interações dinâmicas e naturais, servindo principalmente como um assistente virtual inteligente para a comunidade da UTFPR-CM. </td >
+ </tr >
+ <tr style='border-bottom: 1px solid  #eee;' >
+ <td style='padding: 8px;' > <b > <a href='[https://github.com/marrielly/Guia-UTFPR/blob/master/requirements.txt](https://github.com/marrielly/Guia-UTFPR/blob/master/requirements.txt)' >requirements.txt </a > </b > </td >
+ <td style='padding: 8px;' >- Facilita a integração dos componentes do Google Cloud Vertex AI e LangChain para permitir fluxos de trabalho escaláveis e orientados por IA <br >- Suporta a implantação fluida de modelos de linguagem, processamento de dados e interfaces de interação do usuário dentro da arquitetura mais ampla <br >- Garante que todas as dependências necessárias sejam instaladas para o desenvolvimento e execução eficientes de aplicativos alimentados por IA que utilizam aprendizado de máquina baseado em nuvem e ferramentas de conversação. </td >
+ </tr >
+ </table >
+ </blockquote >
+ </details >
+ </details >
 
 ---
 
@@ -196,6 +194,6 @@ O Guia-utfpr está protegido sob a Licença [LICENÇA](https://choosealicense.co
 
 ---
 
-\<div align="left"\>\<a href="\#top"\>⬆ Voltar\</a\>\</div\>
+ <div align="left" > <a href=" #top" >⬆ Voltar </a > </div >
 
 ---
